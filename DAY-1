@@ -1,0 +1,75 @@
+# C# Fundamentals — Learning Journey
+
+**Date:** 24 September 2026  
+**C# Versions Practiced:** C# 8.0 and C# 10.0  
+**Focus:** C# Fundamentals for .NET Development
+
+Today I practiced the fundamental concepts of C# and verified the basic programs using **C# 8.0 and C# 10.0**.
+
+## 📚 Topics Covered
+
+- Variables
+- Data Types
+- Operators
+- Methods
+- Loops
+- Variable Scope
+
+## 💻 Version Practice
+
+The fundamental concepts were practiced in both:
+
+| C# Version | Practice |
+|---|---|
+| C# 8.0 | ✅ Completed |
+| C# 10.0 | ✅ Completed |
+
+### Example
+
+The following basic C# program works with both C# 8 and C# 10:
+
+```csharp
+using System;
+
+class Program
+{
+    static int Add(int a, int b)
+    {
+        return a + b;
+    }
+
+    static void Main()
+    {
+        int age = 21;
+        string name = "Saurabh";
+        bool isLearning = true;
+
+        int sum = Add(10, 20);
+
+        for (int i = 1; i <= 5; i++)
+        {
+            Console.WriteLine(i);
+        }
+
+        Console.WriteLine($"Name: {name}");
+        Console.WriteLine($"Age: {age}");
+        Console.WriteLine($"Sum: {sum}");
+        Console.WriteLine($"Learning C#: {isLearning}");
+    }
+}
+
+
+## 📈 Day 1 Progress
+
+**24 September 2026**
+
+✅ Variables  
+✅ Data Types  
+✅ Operators  
+✅ Methods  
+✅ Loops  
+✅ Variable Scope  
+✅ Practiced with C# 8.0  
+✅ Practiced with C# 10.0
+
+> Building strong C# fundamentals through daily coding practice and GitHub commits.
