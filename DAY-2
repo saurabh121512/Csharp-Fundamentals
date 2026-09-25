@@ -18,14 +18,14 @@ Today I learned and practiced **Arrays and Lists in C#**. I focused on understan
 
 Example:
 
-```csharp
+
 int[] numbers = { 10, 20, 30, 40, 50 };
 
 for (int i = 0; i < numbers.Length; i++)
 {
     Console.WriteLine(numbers[i]);
 }
-```
+
 
 #### 2. Lists
 
