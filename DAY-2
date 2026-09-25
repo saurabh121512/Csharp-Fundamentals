@@ -1,0 +1,95 @@
+# C# Fundamentals — Learning Journey
+
+## 📅 25 September 2026 — Day 2
+
+Today I learned and practiced **Arrays and Lists in C#**. I focused on understanding how to store, access, update, and iterate through multiple values.
+
+### 📚 Topics Covered
+
+#### 1. Arrays
+
+* Array declaration and initialization
+* Fixed-size collections
+* Accessing elements using an index
+* Updating array elements
+* Using `Length`
+* Traversing arrays using a `for` loop
+* Traversing arrays using `foreach`
+
+Example:
+
+```csharp
+int[] numbers = { 10, 20, 30, 40, 50 };
+
+for (int i = 0; i < numbers.Length; i++)
+{
+    Console.WriteLine(numbers[i]);
+}
+```
+
+#### 2. Lists
+
+* Creating a `List<T>`
+* Adding elements using `Add()`
+* Accessing elements using an index
+* Updating elements
+* Removing elements using `Remove()`
+* Removing elements using `RemoveAt()`
+* Checking the number of elements using `Count`
+* Iterating through a list using `for`
+* Iterating through a list using `foreach`
+
+Example:
+
+```csharp
+List<string> names = new List<string>();
+
+names.Add("Saurabh");
+names.Add("Rahul");
+names.Add("Amit");
+
+for (int i = 0; i < names.Count; i++)
+{
+    Console.WriteLine(names[i]);
+}
+```
+
+### 🔎 Array vs List
+
+| Array                   | List                      |
+| ----------------------- | ------------------------- |
+| Fixed size              | Dynamic size              |
+| Uses `Length`           | Uses `Count`              |
+| `int[]`                 | `List<int>`               |
+| Good when size is known | Good when size can change |
+
+### 💻 Practice
+
+Today I practiced:
+
+* Creating arrays and lists
+* Accessing elements by index
+* Updating elements
+* Adding and removing list elements
+* Using `for` and `foreach` loops to access elements
+
+### 📈 Learning Progress
+
+**24 September 2026 — Day 1**
+
+* ✅ Variables
+* ✅ Data Types
+* ✅ Operators
+* ✅ Methods
+* ✅ Loops
+* ✅ Variable Scope
+
+**25 September 2026 — Day 2**
+
+* ✅ Arrays
+* ✅ Lists
+* ✅ Array/List element access
+* ✅ `for` loop with Arrays and Lists
+* ✅ `foreach` loop with Arrays and Lists
+
+
