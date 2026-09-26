@@ -1,0 +1,113 @@
+# C# Fundamentals — Learning Journey
+
+## 📅 26 September 2026 — Day 3
+
+Today I learned and practiced the fundamental **Object-Oriented Programming (OOP) concepts in C#**, starting with Classes and Objects and then moving into the main OOP principles.
+
+### 📚 Topics Covered
+
+#### 1. Classes
+
+* Understanding what a class is
+* Creating a class
+* Class fields and properties
+* Class methods
+* Using access modifiers
+
+#### 2. Objects
+
+* Creating objects from a class
+* Using the `new` keyword
+* Accessing fields, properties, and methods through objects
+* Understanding object references
+
+#### 3. Encapsulation
+
+* Binding data and methods together inside a class
+* Using `private` and `public` access modifiers
+* Controlling access to class data
+* Using properties to safely access data
+
+#### 4. Inheritance
+
+* Reusing functionality from an existing class
+* Base class and derived class
+* Understanding inheritance using `:`
+* Method inheritance and overriding
+
+#### 5. Polymorphism
+
+* Understanding one interface with multiple implementations
+* **Method Overloading** — same method name with different parameters
+* **Method Overriding** — redefining a base class method in a derived class
+* Compile-time polymorphism through method overloading
+* Runtime polymorphism through method overriding
+* Understanding `virtual`, `override`, and `new`
+
+
+#### 6. Abstraction
+
+* Hiding unnecessary implementation details
+* Abstract classes
+* Abstract methods
+* Focusing on what an object does rather than how it does it
+
+#### 7. Interface
+
+* Defining a contract for classes
+* Implementing interfaces
+* Interface methods
+* Multiple interface implementation
+
+### 🔄 OOP Learning Flow
+
+```text
+Class
+  ↓
+Object
+  ↓
+Encapsulation
+  ↓
+Inheritance
+  ↓
+Polymorphism
+  ↓
+Abstraction
+  ↓
+Interface
+```
+
+### 💻 Practice
+
+Today I practiced creating classes and objects and then applied the major OOP concepts using simple C# programs.
+
+### 📈 Learning Progress
+
+**24 September 2026 — Day 1**
+
+* ✅ Variables
+* ✅ Data Types
+* ✅ Operators
+* ✅ Methods
+* ✅ Loops
+* ✅ Variable Scope
+
+**25 September 2026 — Day 2**
+
+* ✅ Arrays
+* ✅ Lists
+* ✅ Array/List element access
+* ✅ `for` loop with Arrays and Lists
+* ✅ `foreach` loop with Arrays and Lists
+
+**26 September 2026 — Day 3**
+
+* ✅ Classes
+* ✅ Objects
+* ✅ Encapsulation
+* ✅ Inheritance
+* ✅ Polymorphism
+* ✅ Abstraction
+* ✅ Interfaces
+
+> Building my C# foundation step by step through learning, coding practice, and consistent GitHub commits.
