@@ -1,0 +1,82 @@
+## 📅 28 September 2026 — Day 4
+
+Today I continued learning **C# OOP and class-related concepts** that are commonly used in .NET development.
+
+### 📚 Topics Covered
+
+#### 1. Access Modifiers
+
+* `public`
+* `private`
+* `protected`
+* `internal`
+* Controlling accessibility of classes, methods, and members
+
+#### 2. Constructors
+
+* Understanding constructors
+* Default constructors
+* Parameterized constructors
+* Constructor overloading
+* Using constructors to initialize objects
+
+#### 3. `static`, `const`, and `readonly`
+
+* Understanding `static` members
+* Class-level members using `static`
+* Constants using `const`
+* Read-only fields using `readonly`
+* Difference between `const` and `readonly`
+
+#### 4. `virtual`, `override`, and `abstract`
+
+* `virtual` methods
+* Overriding methods using `override`
+* Abstract classes
+* Abstract methods using `abstract`
+* Understanding runtime polymorphism
+* Difference between `virtual` and `abstract`
+
+### 🔄 Learning Flow
+
+```text
+Class & Object
+      ↓
+Encapsulation
+      ↓
+Inheritance
+      ↓
+Polymorphism
+      ↓
+Abstraction
+      ↓
+Interface
+      ↓
+Access Modifiers
+      ↓
+Constructors
+      ↓
+static / const / readonly
+      ↓
+virtual / override / abstract
+```
+
+### 💻 Practice
+
+Today I practiced these concepts using small C# programs to understand how they are used when designing classes, creating objects, controlling access, and implementing inheritance and polymorphism.
+
+### 📈 Learning Progress
+
+**28 September 2026 — Day 4**
+
+* ✅ Access Modifiers
+* ✅ Constructors
+* ✅ Constructor Overloading
+* ✅ `static`
+* ✅ `const`
+* ✅ `readonly`
+* ✅ `virtual`
+* ✅ `override`
+* ✅ `abstract`
+
+
