@@ -6,10 +6,10 @@ Today I continued learning **C# OOP and class-related concepts** that are common
 
 #### 1. Access Modifiers
 
-* `public`
-* `private`
-* `protected`
-* `internal`
+* public
+* private
+* `protected
+* internal
 * Controlling accessibility of classes, methods, and members
 
 #### 2. Constructors
@@ -20,7 +20,7 @@ Today I continued learning **C# OOP and class-related concepts** that are common
 * Constructor overloading
 * Using constructors to initialize objects
 
-#### 3. `static`, `const`, and `readonly`
+#### 3. static, const, and readonly
 
 * Understanding `static` members
 * Class-level members using `static`
