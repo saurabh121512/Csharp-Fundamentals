@@ -1,0 +1,49 @@
+## 📅 29 September 2026 — Learning Day
+
+Today I learned and practiced **Constructors and Collections in C#**. I focused on object initialization and different ways to store and manage multiple values.
+
+### 📚 Topics Covered
+
+#### 1. Constructors
+
+* Understanding constructors
+* Default constructors
+* Parameterized constructors
+* Constructor overloading
+* Using constructors to initialize objects
+* Constructor execution when creating objects with `new`
+
+#### 2. Collections
+
+* Understanding collections in C#
+* Generic collections
+* `List<T>`
+* `Dictionary<TKey, TValue>`
+* `HashSet<T>`
+* `Queue<T>`
+* `Stack<T>`
+* Adding, accessing, updating, and removing elements
+* Iterating through collections using `for` and `foreach`
+* Understanding `Count`
+* Choosing the appropriate collection based on the requirement
+
+### 💻 Practice
+
+Today I practiced creating objects using different constructors and worked with different collection types to store, access, update, and manage data.
+
+### 📈 Learning Progress
+
+**29 September 2026**
+
+* ✅ Constructors
+* ✅ Default Constructor
+* ✅ Parameterized Constructor
+* ✅ Constructor Overloading
+* ✅ Collections
+* ✅ List
+* ✅ Dictionary
+* ✅ HashSet
+* ✅ Queue
+* ✅ Stack
+* ✅ Collection iteration
+
