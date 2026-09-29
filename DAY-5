@@ -11,7 +11,7 @@ Today I learned and practiced **Constructors and Collections in C#**. I focused 
 * Parameterized constructors
 * Constructor overloading
 * Using constructors to initialize objects
-* Constructor execution when creating objects with `new`
+* Constructor execution when creating objects with new
 
 #### 2. Collections
 
