@@ -17,14 +17,14 @@ Today I learned and practiced **Constructors and Collections in C#**. I focused 
 
 * Understanding collections in C#
 * Generic collections
-* `List<T>`
-* `Dictionary<TKey, TValue>`
-* `HashSet<T>`
-* `Queue<T>`
-* `Stack<T>`
+* List<T>
+* Dictionary<TKey, TValue>
+* HashSet<T>
+* Queue<T>
+* Stack<T>
 * Adding, accessing, updating, and removing elements
-* Iterating through collections using `for` and `foreach`
-* Understanding `Count`
+* Iterating through collections using for and foreach
+* Understanding Count
 * Choosing the appropriate collection based on the requirement
 
 ### 💻 Practice
